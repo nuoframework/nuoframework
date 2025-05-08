@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estoy trabajando en un home lab<br>🌱 Estoy aprendiendo compliance en INCIBE<br>💬 Pregúntame sobre seguridad<br>👨‍🏫 Soy experto en ciberseguridad<br>🗣️ Doy Charlas Formativas 
+🔭 Estoy trabajando en un home lab<br>💬 Pregúntame sobre seguridad<br>👨‍🏫 Soy experto en ciberseguridad<br>🗣️ Doy Charlas Formativas<br> Amante de la privacidad
 
 
 ## 🌐 Socials:
