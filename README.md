@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 Estoy trabajando en un home lab<br>💬 Pregúntame sobre seguridad<br>👨‍🏫 Soy experto en ciberseguridad<br>🗣️ Doy Charlas Formativas<br> Amante de la privacidad
+## 💫 About Me:
+
+🔭 **Actualmente desarrollando un home lab**  
+Estoy creando un entorno de laboratorio en casa para experimentar con nuevas tecnologías y mejorar mis habilidades prácticas en ciberseguridad.
+
+💬 **Pregúntame sobre seguridad**  
+Estoy disponible para consultas sobre protección de sistemas, análisis de vulnerabilidades y estrategias de defensa.
+
+👨‍🏫 **Formador y conferencista en ciberseguridad**  
+Imparto charlas y formaciones para concienciar sobre la importancia de la ciberseguridad en el mundo digital actual.
+
+🛡️ **Analista de Inteligencia de Amenazas y Ciberinteligencia**  
+Especializado en la identificación y mitigación de amenazas cibernéticas, con experiencia en análisis de inteligencia para proteger sistemas y datos.
+
+📚 **Autodidacta con formación certificada**  
+He completado más de 25 cursos en ciberseguridad y poseo certificaciones de Cisco, CISSP, Fortinet y IBM, entre otras.
+
+🌐 **Contribuyente activo en la comunidad**  
+Participo en proyectos de código abierto y colaboro con iniciativas educativas para promover la seguridad digital.
+
 
 
 ## 🌐 Socials:
